@@ -1,11 +1,21 @@
-# Sistemas_Operativos
-# Daniel Gonzalez Guzman
-_____
-#####  Tarea #998 Instalar Virtualbox y alguna distribucion de Linux, entregar para el 12/09/23, tomar screenshot del sistema ya instalado y subir la captura a su repositorio de tareas como evidencia. 
+<header>
+        <h1>Sistemas Operativos</h1>
+        <h5>Daniel Gonzalez Guzman</h5>
+    </header>
+    <div class="container">
+        <div class="task">
+            <h4>Tarea #998 - Instalar Virtualbox y alguna distribución de Linux</h4>
+            <p>Entregar para el 12/09/23. Tomar screenshot del sistema ya instalado y subir la captura a su repositorio de tareas como evidencia.</p>
+            <a href="https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%202023-06-10%20203604.png" target="_blank">
+                <img src="Captura%20de%20pantalla%202023-06-10%20203604.png" alt="Captura de pantalla"/>
+            </a>
+        </div>
 
-<a href="https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%202023-06-10%20203604.png" target="_blank"> <img src="Captura de pantalla 2023-06-10 203604.png"/></a> 
-
-#####  Tarea #997 Hacer el https://vim-adventures.com/ los niveles gratuitos, sacar un screenshot del ultimo nivel.
-
-
-<a href="https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%202023-09-09%20110818.png" target="_blank"> <img src="Captura de pantalla 2023-09-09 110818.png"/></a> 
+        <div class="task">
+            <h4>Tarea #997 - Hacer el <a href="https://vim-adventures.com/">vim-adventures.com</a> los niveles gratuitos</h4>
+            <p>Sacar un screenshot del último nivel.</p>
+            <a href="https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%202023-09-09%20110818.png" target="_blank">
+                <img src="Captura%20de%20pantalla%202023-09-09%20110818.png" alt="Captura de pantalla"/>
+            </a>
+        </div>
+    </div>
