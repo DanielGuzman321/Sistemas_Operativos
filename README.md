@@ -12,6 +12,6 @@
 ### Tarea #997 - Completar los niveles gratuitos de [vim-adventures.com](https://vim-adventures.com/)
 
 - **Fecha de entrega:** 12/09/23
-- **Descripción:** En esta tarea, completé los niveles gratuitos de [vim-adventures.com](https://vim-adventures.com/).
+- **Descripción:** Completé los niveles gratuitos de [vim-adventures.com](https://vim-adventures.com/).
 
     [![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%202023-09-09%20110818.png)](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%202023-09-09%20110818.png)
