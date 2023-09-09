@@ -1,4 +1,5 @@
-<header>
+<body>
+    <header>
         <h1>Sistemas Operativos</h1>
         <h5>Daniel Gonzalez Guzman</h5>
     </header>
@@ -19,3 +20,4 @@
             </a>
         </div>
     </div>
+</body>
