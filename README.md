@@ -5,7 +5,7 @@
 ### Tarea #998 - Instalación de Virtualbox y una distribución de Linux
 
 - **Fecha de entrega:** 12/09/23
-- **Descripción:** Realicé la instalación de Virtualbox junto con una distribución de Linux 'UBUNTU'.
+- **Descripción:** Realicé la instalación de Virtualbox junto con una distribución de Linux 'DEBIAN'.
 
 ![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/imagen_2023-09-09_170401220.png)
   
