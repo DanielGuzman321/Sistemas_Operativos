@@ -7,8 +7,8 @@
 - **Fecha de entrega:** 12/09/23
 - **Descripción:** Realicé la instalación de Virtualbox junto con una distribución de Linux 'UBUNTU'.
 
-    [![Captura de pantalla](![image](https://github.com/DanielGuzman321/Sistemas_Operativos/assets/116816937/82277f06-9810-4937-bfa7-f363f8a42b38))]([https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%202023-06-10%20203604.png](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%202023-09-09%20110818.png))
-
+![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/imagen_2023-09-09_170401220.png)
+  
 ### Tarea #997 - Completar los niveles gratuitos de [vim-adventures.com](https://vim-adventures.com/)
 
 - **Fecha de entrega:** 12/09/23
