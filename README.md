@@ -21,7 +21,5 @@
 - **Fecha de entrega:** 12/09/23
 - **Descripción:** Menú en Bash que permite elegir entre la ejecución de varios scripts, crear un árbol de directorios, otro para imprimir "Hola, mundo!" y otro para mostrar mi nombre. También se incluye la opción para salir del menú.
 
-Video de demostración:
-
 [![Demostración del Menú en Bash](https://asciinema.org/a/607784.svg)](https://asciinema.org/a/607784)
 
