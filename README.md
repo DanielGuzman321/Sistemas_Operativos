@@ -15,3 +15,10 @@
 - **Descripción:** Completé los niveles gratuitos de [vim-adventures.com](https://vim-adventures.com/).
 
     [![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%202023-09-09%20110818.png)](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%202023-09-09%20110818.png)
+
+### Tarea #996 - Menú en Bash
+
+- **Fecha de entrega:** 12/09/23
+- **Descripción:** Menú en Bash que permite elegir entre la ejecución de varios scripts, crear un árbol de directorios, otro para imprimir "Hola, mundo!" y otro para mostrar mi nombre. También se incluye la opción para salir del menú.
+
+<iframe src="https://asciinema.org/a/607784" frameborder="0" scrolling="no" width="100%" height="600"></iframe>
