@@ -32,3 +32,8 @@ Previsualización completa del código [menu.sh](https://github.com/DanielGuzman
 
 ![GIF de Bash](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/bash.gif)
 
+##Tarea #994 Realizar los 18 bash scripts que vienen en el PDF shell_linux.pdf.
+- **Fecha de entrega:** 19/09/23
+- **Descripción:** Creacion de 18 scripts en bash.
+
+Previsualización completa [Carpeta](https://github.com/DanielGuzman321/Sistemas_Operativos/tree/main/Actividad1).
