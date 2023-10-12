@@ -40,8 +40,6 @@ Previsualización completa [Carpeta](https://github.com/DanielGuzman321/Sistemas
 
 ### Tarea #993 -  Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt y subirlo a su repositorio de tareas.
 - **Fecha de entrega:**  Fin del mes de Octubre.
-- **Descripción:** Niveles de Bandit
-https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/bandit.txtL1-L5
-> [!IMPORTANT]
-> Comandos Utilizados de 
-> <a href="https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/bandit.txt" target="_blank"> Bandit NIVELES </a>
+
+- [x] Realizar todos los niveles de Bandit de [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) y poner evidencia de los comandos utilizados en un [archivo de texto](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/bandit.txt).
+
