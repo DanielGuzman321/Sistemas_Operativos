@@ -46,3 +46,33 @@ Previsualización completa [Carpeta](https://github.com/DanielGuzman321/Sistemas
 Puedes encontrar los comandos utilizados en el archivo de texto:
 - [Comandos Bandit 1-34](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/68d80f767d91efbef25cb5e7a3ed09270a9d13b3/bandit.txt#L1-L4)
 
+### Tarea #992 - Participar en el Hacktoberfest
+
+- **Fecha de entrega:** Fin de octubre.
+
+- **Descripción:** Participación en el evento Hacktoberfest. Enlace de registro y detalles adicionales disponibles en el tweet.
+
+
+- [Hacktoberfest Banner](https://x.com/hacktoberfest/status/1706642413895241838?s=46&t=wh4RmHitx0mloV0NlU800w)
+
+
+### TAREA 991 - Realizar los rooms de Linux Fundamentals de TryHackMe.
+
+- **Fecha de entrega:** Fin de cuatrimestre.
+
+- **Descripción:** Rooms de Linux.
+
+### TAREA 990 - Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python.
+
+- **Fecha de entrega:** Fin de cuatrimestre.
+
+- **Descripción:** Creal Jail.
+
+### Tarea 989 - Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
+
+-  - **Fecha de entrega:** Fin de cuatrimestre.
+
+- **Descripción:** Creal Jail.
+
+
+
