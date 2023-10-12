@@ -53,7 +53,7 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 - **Descripción:** Participación en el evento Hacktoberfest. Enlace de registro y detalles adicionales disponibles en el tweet.
 
 
-- [Hacktoberfest Banner](https://x.com/hacktoberfest/status/1706642413895241838?s=46&t=wh4RmHitx0mloV0NlU800w)
+- ![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/STICKER.png)
 
 
 ### TAREA 991 - Realizar los rooms de Linux Fundamentals de TryHackMe.
