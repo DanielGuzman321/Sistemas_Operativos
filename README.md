@@ -80,6 +80,7 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 - **Descripción:** Realizar Room.
 
 [![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/pipipi.png)](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/pipipi.png)
+https://github.com/DanielGuzman321/Sistemas_Operativos/blob/604475f5ab8d8c4075a3d59d4ea9ee6f865a1cbc/jail.py#L1-L10
 
 ### Tarea #988 - Ejercicio en Clase.
 
