@@ -56,19 +56,19 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 [![An image of @danielguzman321's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danielguzman321)](https://holopin.io/@danielguzman321)
 
 
-### TAREA 991 - Realizar los rooms de Linux Fundamentals de TryHackMe.
+### TAREA #991 - Realizar los rooms de Linux Fundamentals de TryHackMe.
 
 - **Fecha de entrega:** Fin de cuatrimestre.
 
 - **Descripción:** Rooms de Linux.
 
-### TAREA 990 - Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python.
+### TAREA #990 - Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python.
 
 - **Fecha de entrega:** Fin de cuatrimestre.
 
 - **Descripción:** Creal Jail.
 
-### Tarea 989 - Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
+### Tarea #989 - Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
 
 -  - **Fecha de entrega:** Fin de cuatrimestre.
 
