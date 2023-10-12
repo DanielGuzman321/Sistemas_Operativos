@@ -38,7 +38,7 @@ Previsualización completa del código [menu.sh](https://github.com/DanielGuzman
 
 Previsualización completa [Carpeta](https://github.com/DanielGuzman321/Sistemas_Operativos/tree/main/Actividad1).
 
-### Tarea #993 - Realizar todos los niveles de Bandit de [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) y poner evidencia de los comandos utilizados en un archivo de texto y subirlo a su repositorio de tareas.
+### Tarea #993 - Realizar todos los niveles de Bandit y poner evidencia de los comandos utilizados en un archivo de texto y subirlo a su repositorio de tareas.
 
 - **Fecha de entrega:** Fin del mes de Octubre.
 - **Descripción:** Niveles de Bandit.
@@ -75,7 +75,7 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
   ![image](https://github.com/DanielGuzman321/Sistemas_Operativos/assets/116816937/923f1498-fd57-4dac-864c-cd6436fc3296)
 
 
-### Tarea #989 - Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
+### Tarea #989 - Realizar el room de Bash Scripting de TYryHackMe.
 
 - **Fecha de entrega:** Fin de cuatrimestre.
 
