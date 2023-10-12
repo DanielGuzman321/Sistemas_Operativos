@@ -72,9 +72,9 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
 ### Tarea #989 - Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
 
--  - **Fecha de entrega:** Fin de cuatrimestre.
+- **Fecha de entrega:** Fin de cuatrimestre.
 
-- **Descripción:** Creal Jail.
+- **Descripción:** Realizar Room.
 
 [![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/pipipi.png)](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/pipipi.png)
 
