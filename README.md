@@ -42,4 +42,10 @@ Previsualización completa [Carpeta](https://github.com/DanielGuzman321/Sistemas
 - **Fecha de entrega:**  Fin del mes de Octubre.
 
 - [x] Realizar todos los niveles de Bandit de [OverTheWire Bandit](https://overthewire.org/wargames/bandit/) y poner evidencia de los comandos utilizados en un [archivo de texto](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/bandit.txt).
-
+- [ ] https://github.com/DanielGuzman321/Sistemas_Operativos/blob/68d80f767d91efbef25cb5e7a3ed09270a9d13b3/bandit.txt#L1
+- [ ] - [x] Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt
+https://github.com/JhonKing4/TareasSistemasOperativos/blob/71de25ca2f1980f35fb114223f30ce96e1665484/comandosbandit1-34.txt#L1-L4
+> [!IMPORTANT]
+> Comandos Utilizados de 
+> <a href="" target="_blank"> bandit 1-34 </a>
+https://github.com/DanielGuzman321/Sistemas_Operativos/blob/68d80f767d91efbef25cb5e7a3ed09270a9d13b3/bandit.txt#L1-L4
