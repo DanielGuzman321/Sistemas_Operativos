@@ -70,6 +70,9 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
 - **Descripción:** Creal Jail.
 
+  ![image](https://github.com/DanielGuzman321/Sistemas_Operativos/assets/116816937/923f1498-fd57-4dac-864c-cd6436fc3296)
+
+
 ### Tarea #989 - Realizar el room de Bash Scripting de TYryHackMe https://tryhackme.com/room/bashscripting
 
 - **Fecha de entrega:** Fin de cuatrimestre.
