@@ -78,4 +78,18 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
 [![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/pipipi.png)](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/pipipi.png)
 
+### Tarea #988 - Ejercicio en Clase.
+
+- **Fecha de entrega:** Fin de cuatrimestre.
+
+- **Descripción:** Realizar el ejercicio asignado durante la clase de hoy.
+
+### Tarea #987 - Laboratorio en Clase.
+
+- **Fecha de entrega:** Fin de cuatrimestre.
+
+- **Descripción:** Realizar el laboratorio asignado durante la clase de hoy.
+  
+
+
 
