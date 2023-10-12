@@ -76,5 +76,6 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
 - **Descripción:** Creal Jail.
 
+[![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/pipipi.png)](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/pipipi.png)
 
 
