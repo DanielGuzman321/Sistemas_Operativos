@@ -37,3 +37,9 @@ Previsualización completa del código [menu.sh](https://github.com/DanielGuzman
 - **Descripción:** Creacion de 18 scripts en bash.
 
 Previsualización completa [Carpeta](https://github.com/DanielGuzman321/Sistemas_Operativos/tree/main/Actividad1).
+
+### Tarea #993 -  Realizar todos los niveles de Bandit de https://overthewire.org/wargames/bandit/ poner evidencia de los comandos utilizados en un txt y subirlo a su repositorio de tareas.
+- **Fecha de entrega:**  Fin del mes de Octubre.
+- **Descripción:** Niveles de Bandit
+
+Previsualización completa [Carpeta](https://github.com/DanielGuzman321/Sistemas_Operativos/tree/main/Actividad1).
