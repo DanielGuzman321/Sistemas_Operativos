@@ -53,7 +53,7 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 - **Descripción:** Participación en el evento Hacktoberfest. Enlace de registro y detalles adicionales disponibles en el tweet.
 
 
-- ![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/STICKER.png)
+[![An image of @danielguzman321's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/danielguzman321)](https://holopin.io/@danielguzman321)
 
 
 ### TAREA 991 - Realizar los rooms de Linux Fundamentals de TryHackMe.
