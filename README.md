@@ -89,7 +89,7 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
 - **Descripción:** Realizar el ejercicio asignado durante la clase de hoy.
 
-[[PDF](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/18.pdf)](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/18.pdf)
+[[PDF](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/18.pdf)]
 
 ### Tarea #987 - Laboratorio en Clase.
 
