@@ -96,6 +96,8 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 - **Fecha de entrega:** Fin de cuatrimestre.
 
 - **Descripción:** Realizar el laboratorio asignado durante la clase de hoy.
+
+[PDF](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/17.pdf)
   
 
 
