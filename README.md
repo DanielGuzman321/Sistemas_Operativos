@@ -99,7 +99,7 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
 [PDF](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/17.pdf)
 
-## Tarea #987 - Instalaciones en Clase.
+### Tarea #986 - Instalaciones en Clase.
 
 - **Fecha de entrega:** Fin de cuatrimestre.
 
