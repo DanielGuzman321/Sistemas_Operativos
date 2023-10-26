@@ -98,6 +98,15 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 - **Descripción:** Realizar el laboratorio asignado durante la clase de hoy.
 
 [PDF](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/17.pdf)
+
+## Tarea #987 - Laboratorio en Clase.
+
+- **Fecha de entrega:** Fin de cuatrimestre.
+
+- **Descripción:** Realizar el laboratorio asignado durante la clase de hoy.
+
+[IMG](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Screenshot%20from%202023-10-26%2018-06-29.png)
+
   
 
 
