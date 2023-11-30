@@ -107,6 +107,8 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
 ![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Screenshot%20from%202023-10-26%2018-06-29.png)
 
+![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%20(1).png)
+
   
 
 
