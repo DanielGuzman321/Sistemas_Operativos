@@ -62,7 +62,7 @@ Puedes encontrar los comandos utilizados en el archivo de texto:
 
 - **Descripción:** Rooms de Linux.
 
-[![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%20(1).png)](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%20(1).png)
+[![Captura de pantalla](https://github.com/DanielGuzman321/Sistemas_Operativos/blob/main/Captura%20de%20pantalla%202023-11-30%20181040.png)
 
 ### Tarea #990 - Crear un jail, del estilo de bandit, aquí explicó cómo crear un jail y en qué consiste y así, está hecho con Python.
 
